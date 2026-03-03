@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\anuch\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\windstring\\stringautotast\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{439F5954-1183-48C6-B5CA-A8348CE7F47E}|stringautotast\\stringautotast.csproj|c:\\users\\anuch\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\windstring\\stringautotast\\stringautotast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{439F5954-1183-48C6-B5CA-A8348CE7F47E}|stringautotast\\stringautotast.csproj|solutionrelative:stringautotast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{439F5954-1183-48C6-B5CA-A8348CE7F47E}|stringautotast\\stringautotast.csproj|c:\\users\\anuch\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\windstring\\stringautotast\\stringautotast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{439F5954-1183-48C6-B5CA-A8348CE7F47E}|stringautotast\\stringautotast.csproj|solutionrelative:stringautotast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439F5954-1183-48C6-B5CA-A8348CE7F47E}|stringautotast\\stringautotast.csproj|c:\\users\\anuch\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\windstring\\stringautotast\\stringautotast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{439F5954-1183-48C6-B5CA-A8348CE7F47E}|stringautotast\\stringautotast.csproj|solutionrelative:stringautotast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\anuch\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\windstring\\stringautotast\\stringautotast\\Form1.cs",
               "RelativeDocumentMoniker": "stringautotast\\Form1.cs",
               "ToolTip": "C:\\Users\\anuch\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\windstring\\stringautotast\\stringautotast\\Form1.cs",
               "RelativeToolTip": "stringautotast\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T04:20:12.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\anuch\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\windstring\\stringautotast\\stringautotast\\Form1.cs",
               "RelativeDocumentMoniker": "stringautotast\\Form1.cs",

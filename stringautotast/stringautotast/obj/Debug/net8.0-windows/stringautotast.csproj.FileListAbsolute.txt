@@ -1,0 +1,17 @@
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\bin\Debug\net8.0-windows\stringautotast.exe
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\bin\Debug\net8.0-windows\stringautotast.deps.json
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\bin\Debug\net8.0-windows\stringautotast.runtimeconfig.json
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\bin\Debug\net8.0-windows\stringautotast.dll
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\bin\Debug\net8.0-windows\stringautotast.pdb
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\stringautotast.Form1.resources
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\stringautotast.csproj.GenerateResource.cache
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\stringautotast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\stringautotast.AssemblyInfoInputs.cache
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\stringautotast.AssemblyInfo.cs
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\stringautotast.csproj.CoreCompileInputs.cache
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\stringautotast.sourcelink.json
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\stringautotast.dll
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\refint\stringautotast.dll
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\stringautotast.pdb
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\stringautotast.genruntimeconfig.cache
+C:\Users\anuch\OneDrive\Документы\vs\windstring\stringautotast\stringautotast\obj\Debug\net8.0-windows\ref\stringautotast.dll
