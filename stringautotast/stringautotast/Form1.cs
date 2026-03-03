@@ -5,6 +5,9 @@ namespace stringautotast
         public Form1()
         {
             InitializeComponent();
+
+            firstWord.Text = Properties.Settings.Default.firstWordSave;
+            secondWord.Text = Properties.Settings.Default.secondWordSave;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -19,6 +22,9 @@ namespace stringautotast
             {
                 return;
             }
+            Properties.Settings.Default.firstWordSave = first;
+            Properties.Settings.Default.secondWordSave = second;
+            Properties.Settings.Default.Save();
             List<string> results = Logic.Result(first, second);
             MessageBox.Show(string.Join(" ", results));
         }
