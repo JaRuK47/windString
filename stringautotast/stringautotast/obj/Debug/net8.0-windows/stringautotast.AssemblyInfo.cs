@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stringautotast")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0f0ea72b1f58a1ef9577d7fb32dff9b438e56e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("stringautotast")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stringautotast")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
